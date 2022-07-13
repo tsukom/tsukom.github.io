@@ -4,14 +4,14 @@ layout: default
 ---
 
 ## List
-| Name | Localized Name          | Licensor |
+| Name | Localized Name | Licensor |
 |:-------------|:------------------|:------|
 | Barakamon | Barakamon | Elex Media Komputindo  |
 
 
-| head1        | head two          | three |
+| Name        | Localized Name          | Licensor |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| Barakamon | Barakamon | Elex Media Komputindo  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
