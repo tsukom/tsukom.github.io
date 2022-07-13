@@ -4,7 +4,6 @@ layout: default
 ---
 
 ## List
-
 <table class="searchable sortable">
  <thead>
    <tr>
@@ -15,6 +14,12 @@ layout: default
   </tr>
  </thead>
  <tbody>
+     <tr>
+         <td>Barakamon</td>
+         <td>Barakamon</td>
+         <td>Elex Media Komputindo</td>
+         <td><a href="https://www.animenewsnetwork.com/news/2015-08-27/elex-media-licenses-barakamon-manga-in-indonesia/.92179">ANN</a></td>
+     </tr>
  </tbody>
 </table>
 
